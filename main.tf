@@ -28,6 +28,6 @@ resource "azurerm_resource_group" "example" {
   location = "West Europe"
 }
 
-credentials "app.terraform.io" {
-  token = "rEz93cvbm28pyQ.atlasv1.OA6fLOH5CyMk8tBdAWLKf8f8JcV0DDGe6lfyXyBwXBMIijGSj2e3zTJYeHyeC7pyI38"
-}
+# credentials "app.terraform.io" {
+#   token = "rEz93cvbm28pyQ.atlasv1.OA6fLOH5CyMk8tBdAWLKf8f8JcV0DDGe6lfyXyBwXBMIijGSj2e3zTJYeHyeC7pyI38"
+# }
